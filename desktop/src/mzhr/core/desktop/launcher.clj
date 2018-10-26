@@ -6,4 +6,5 @@
 
 (defn -main []
   (LwjglApplication. (mzhr.core.core.Game.) "demo" 800 600)
-  (Keyboard/enableRepeatEvents true))
+                                        ;(Keyboard/enableRepeatEvents true))
+  )

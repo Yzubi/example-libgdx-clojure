@@ -1,3 +1,5 @@
+# LIBGDX example for android and desktop
+
 BUILD PROCESS
 =============
 
@@ -13,5 +15,11 @@ lein run
 
 Building for Desktop
 ```
+lein uberjar
+```
 
+Building for Android
+
+```
+use android studio in root project directory
 ```
